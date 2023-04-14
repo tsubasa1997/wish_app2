@@ -30,6 +30,10 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
+.dart_tool
+wish_app2.iml
+private_key
+.metadata
 /build/
 
 # Web related
