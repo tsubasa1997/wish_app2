@@ -32,7 +32,6 @@ migrate_working_dir/
 .pub/
 .dart_tool
 wish_app2.iml
-private_key
 .metadata
 /build/
 
